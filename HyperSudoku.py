@@ -1,16 +1,5 @@
-#################################################################
-#                                                               #
-#    Define any helper functions you need in this file only.    #
-#    You will be handing in HyperSudoku.py, nothing else.       #
-#                                                               #
-#    A few test cases are provided in Test.py. You can test     #
-#    Your code by running: (See the file for more details)      #
-#               python Test.py                                  #
-#    in the directory where the files are located.              #
-#                                                               #
-#    We're using Python 3.X this time.                          #
-#                                                               #
-#################################################################
+# Given a hypersudoku grid, either outputs a filled grid solution or None if no valid solutions found.
+# Note: Input sudoku grid must be defined as a 9x9 matrix (2d array)
 
 import time
 from subprocess import *
