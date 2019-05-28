@@ -1,5 +1,5 @@
 # Hyper Sudoku Solver
 
-Solves a hypersudoku puzzle (standard sudoku with additional requirements) with backtracking.
+Algorithm solves a hypersudoku puzzle (standard sudoku with 4 additional 3x3 subgrids (ones in grey)).
 
 ![alt text](https://raw.githubusercontent.com/RylandWang/Hyper-Sudoku-Solver/master/hypersudoku.jpg)
